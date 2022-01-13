@@ -1,0 +1,32 @@
+hr
+{
+    border-style: dotted none none;
+    border-color: grey;
+    border-width: 5px;
+    width: 80%;
+    
+}
+body
+{
+    background-color: rgb(228, 231, 216);
+}
+h1,h3
+{
+    color:rgb(204, 80, 23);
+}
+img:hover
+{
+    background-color: rgb(218, 208, 196);
+}
+a:hover
+{
+    color: brown;
+}
+h3:hover
+{
+    color: Gold;
+}
+h1:hover
+{
+    color: Gold;
+}

@@ -1,0 +1,20 @@
+body
+{
+    background-color: wheat;
+}
+img
+{
+    background-color: wheat;
+}
+label:hover
+{
+    color: red;
+}
+p:hover
+{
+    color: red;
+}
+img:hover
+{
+    background-color: YELLOW;
+}
